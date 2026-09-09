@@ -1,5 +1,5 @@
 def perimeter(a: float, b: float, c: float) -> float:
-    return a + b 
+    return a + b + c
 
 def square(a: float, b: float, c: float) -> float:
     p = perimeter(a, b, c) / 2
