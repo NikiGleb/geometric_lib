@@ -11,7 +11,7 @@
 
 ```
 .
-├── circle.py        — круг (окружность)
+├── circle.py        — окружность
 ├── rectangle.py     — прямоугольник
 ├── square.py        — квадрат
 ├── triangle.py      — треугольник
@@ -165,3 +165,8 @@
 | 9d526ad | Fix rectangle perimeter calculation |
 | 9e0ae78 | Added triangle functions |
 | 2dffc2a | Added rectangle functions |
+
+
+1. [google](https://google.com)
+2. [yandex](https://yandex.com)
+3. [mail](https://mail.com)
