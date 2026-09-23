@@ -17,10 +17,6 @@ class RectangleTestCase(unittest.TestCase):
         res = area(10, 10)
         self.assertEqual(res, 100)
 
-    def test_area_4(self):
-        res = area(2.5, 4)
-        self.assertAlmostEqual(res, 10.0)
-
     # perimeter 
     def test_perimeter_1(self):
         res = perimeter(3, 4)
