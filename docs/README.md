@@ -160,8 +160,8 @@
 
 | Хеш коммита | Изменение                           |
 | ----------- | ----------------------------------- |
+| 9025199     | Added tests for all figures         |
 | e85df6e     | Added comments for functions        |
 | 9d526ad     | Fix rectangle perimeter calculation |
 | 9e0ae78     | Added triangle functions            |
 | 2dffc2a     | Added rectangle functions           |
-| 9025199     | Added tests for all figures         |
